@@ -10,10 +10,11 @@ https://gkportfolio.vercel.app <br />
 
 
 ### Images of The Fashion Studio Website:
-![HOME](https://github.com/codebucks27/wibe-studio-starter-files/blob/main/Wibe-Home-Desktop.png)
-![ABOUT](https://github.com/codebucks27/wibe-studio-starter-files/blob/main/Wibe-About-Desktop.png)
-![HOME](https://github.com/codebucks27/wibe-studio-starter-files/blob/main/Wibe-Home-Moblie.png)
-![ABOUT](https://github.com/codebucks27/wibe-studio-starter-files/blob/main/Wibe-About-Mobile.png)
+![HOME](https://github.com/Guruprasad20/portfolio/blob/main/src/assets/preview/Screenshot%202023-04-13%20at%2014.45.48.png)
+![SKILLS](https://github.com/Guruprasad20/portfolio/blob/main/src/assets/preview/Screenshot%202023-04-13%20at%2014.45.57.png)
+![QUOTES](https://github.com/Guruprasad20/portfolio/blob/main/src/assets/preview/Screenshot%202023-04-13%20at%2014.46.05.png)
+![PROJECT](https://github.com/Guruprasad20/portfolio/blob/main/src/assets/preview/Screenshot%202023-04-13%20at%2014.46.12.png)
+![CONTACT](https://github.com/Guruprasad20/portfolio/blob/main/src/assets/preview/Screenshot%202023-04-13%20at%2014.46.19.png)
 
 
 ### Resources Used in This Project
@@ -30,19 +31,18 @@ Fonts: https://fontsource.org/ <br />
 
 ### All The Resources Used in This Website Are from👇:
 
-Walking Girl Video:<br />
-Video by cottonbro from Pexels [https://www.pexels.com/@cottonbro]<br />
+Tech video:<br />
+Video by from Pexels<br />
 
 Images:<br />
 
 
 
 
-### Famous Quotes Used:
-"Fashion is the armour to survive the reality of everyday life."<br />
--- bill cunningham
+### Quotes Used:
+"Unleash your imagination with our stunning development."<br />
 
-"One is never over-dressed or under-dressed with a Little Black Dress." —Karl Lagerfeld<br />
+"Discover the art of excellence with our Web Design Elevate your expectations" <br />
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
