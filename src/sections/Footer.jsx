@@ -171,7 +171,7 @@ const Footer = () => {
           </li>
           <li>
             <a href="https://www.snapchat.com/add/gopalkrishna-20?share_id=AX0IO_BnNcM&locale=en-GB" target={"_blank"} rel="noreferrer">
-              snapchat- gopalkrishna-20
+              snapchat
             </a>
           </li>
         </ul>
